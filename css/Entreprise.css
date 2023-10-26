@@ -1,0 +1,45 @@
+/* Date en italique */
+.date {
+  font-style: italic;
+}
+
+/* Shadow sur la phrase d'intro */
+.START-ZUP {
+  text-shadow: rgb(180, 178, 172) 1px 0 10px;
+}
+
+/* Trait de séparation */
+.trait {
+  border: rgb(148, 141, 141);
+  border-width: 3px;
+  border-style: solid;
+}
+
+/* Apparence et positionnement des différents éléments du schéma */
+.container {
+  padding: 20px;
+  margin-top: 30px;
+  border: 1px solid blueviolet;
+  display: flex;
+  align-items: center;
+}
+
+.rectangle {
+  padding: 10px;
+  background-color: rgb(107, 220, 226);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rectangle-rose {
+  background-color: pink;
+  color: white;
+  font-size: larger;
+}
+
+.trait {
+  height: 3px;
+  background-color: black;
+  flex-grow: 1;
+}

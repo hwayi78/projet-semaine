@@ -1,0 +1,17 @@
+/* Apparence des listes déroulantes */
+#slc {
+    border: none;
+    background-color: transparent;
+    font-size: 150%;
+    margin-left: -15px;
+}
+
+/* Apparence des traits */
+.trait2 {
+    border: 3px solid #e58f5c;
+}
+
+/* Taille du texte */
+p {
+    font-size: larger;
+}

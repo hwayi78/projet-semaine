@@ -1,0 +1,63 @@
+.orangetext {
+    color: #E58F5C;
+}
+
+figure,
+.champ {
+    width: 100%;
+}
+
+/* Apparence du formulaire */
+#formulaire,
+.champ,
+.form1 {
+    background-color: #d4e2bf;
+}
+
+.champ {
+    text-align: left;
+    resize: none;
+}
+
+/* Apparence et positionnement bouton SEND */
+.send {
+    text-align: right;
+}
+
+.Bsend {
+    width: 20%;
+    background-color: #E58F5C;
+}
+
+/* Apparence de la partie formulaire */
+textarea {
+    background-color: rgb(202, 189, 189);
+    border: 2px solid white;
+}
+
+textarea::placeholder,
+.colortypo {
+    color: white;
+}
+
+/* Positonnement et taille de la carte */
+.map-container {
+    height: 90%;
+    position: absolute;
+    top: 30%;
+}
+
+/* Nécessaire pour faire la barre verticale */
+#verticale {
+    border-top: white;
+    border-bottom: white;
+    border-right: white;
+    border-left: #E58F5C;
+    border-width: 5px;
+    border-style: solid;
+}
+
+/* Pour que la croix soit au dessus a droite de la carte */
+span {
+    float: right;
+}

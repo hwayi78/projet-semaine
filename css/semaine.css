@@ -1,0 +1,59 @@
+/* Apparence et positionnement des différents éléments de la navbar */
+.navbar-brand {
+    margin-top: 1Opx;
+}
+
+.navbar-expand-lg .nav-link {
+    color: #E58F5C;
+}
+
+li {
+    padding-bottom: 30px;
+    margin-right: 50px;
+}
+
+nav {
+    background-color: white;
+    border-color: #E58F5C;
+    border-width: 1px;
+    border-style: solid;
+    padding-top: 20px;
+}
+
+h4 {
+    color: black;
+}
+
+/* Apparence du footer */
+#footer1 {
+    background-color: #de471a;
+}
+
+#footer2 {
+    background-color: #43403f;
+    padding-bottom: 30px;
+}
+
+/* Apparence et positionnement des titres */
+.display-2 {
+    text-align: center;
+    color: #E58F5C;
+}
+
+
+/* Apparence des boutons */
+.bigbutton,
+.what {
+    border-color: #E58F5C;
+    border-width: 2px;
+    background-color: white;
+}
+
+/* Couleur orange de ces textes */
+.qui,
+.read,
+.h1HOME,
+.bigbutton,
+.what {
+    color: #e58f5c;
+}

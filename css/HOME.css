@@ -1,0 +1,26 @@
+/* Shadows sur les 3 images */
+.img3 {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Apparence et postionnement des 2 lignes de textes */
+.h1HOME {
+    text-align: center;
+}
+
+h6 {
+    color: blue;
+}
+
+/* Positionnement des boutons */
+.bigbutton {
+    width: 240px;
+    height: 70px;
+    margin-left: 100px;
+}
+
+.what {
+    width: 120px;
+    height: 35px;
+    margin-top: 300px;
+}
